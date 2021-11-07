@@ -5,7 +5,7 @@
 - Have [Google Chrome](https://www.google.com/chrome/) installed on your Mac.  
 
 ## Installation
-- Download `.workflow` file to `{YOUR HOME DIRECTORY}/Library/Services`.
+- Save `.workflow` file to `{YOUR HOME DIRECTORY}/Library/Services`.
 
 ## Usage
 - In your Mac, open any app with text, e.g., a text editor or a web browser.

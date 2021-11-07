@@ -12,4 +12,4 @@
 - Select/highlight any text.
 - Right-click (`CTRL+click`) to open menu options.
 - Select `Services > Translate to English (via Google on Chrome)`.
-- This will open a new [Chrome](https://www.google.com/chrome/) tab to [Google Translate](https://translate.google.com/), translating the selected text to English. 
+- This will open a new [Chrome](https://www.google.com/chrome/) tab/window to [Google Translate](https://translate.google.com/), translating the selected text to English. 
